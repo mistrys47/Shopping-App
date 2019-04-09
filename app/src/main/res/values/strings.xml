@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ST2</string>
+    <string-array name="spinnerItems">
+        <item>Select-One</item>
+        <item>fruits</item>
+        <item>vegetables</item>
+        <item>biscuits</item>
+    </string-array>
+</resources>
